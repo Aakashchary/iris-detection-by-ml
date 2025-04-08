@@ -12,8 +12,8 @@ A machine learning project that implements a robust iris recognition system usin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/iris-identification.git
-   cd iris-identification
+   git clone https://github.com/Aakashchary/iris-detection-by-ml.git
+   cd IrisRecognition
    ```
 
 2. **Set Up the Python Environment:**
