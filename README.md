@@ -1,4 +1,3 @@
-```markdown
 # Iris Identification Using Machine Learning
 
 A machine learning project that implements a robust iris recognition system using convolutional neural networks (CNNs).
