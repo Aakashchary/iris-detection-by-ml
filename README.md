@@ -65,10 +65,6 @@ A machine learning project that implements a robust iris recognition system usin
 - **Border Security:** Enhanced identity verification at border checkpoints.
 - **Personalized Authentication:** Integration into mobile or desktop applications for secure user authentication.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This project is inspired by recent advances in machine learning and iris recognition research.
